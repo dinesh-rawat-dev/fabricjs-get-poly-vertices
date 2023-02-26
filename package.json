@@ -1,0 +1,24 @@
+{
+  "name": "fabricjs-get-poly-vertices",
+  "version": "1.0.0",
+  "description": "A demo project showcasing how to find the coordinates of the vertices of a polygon in Fabric.js.",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "fabric": "5.2.1",
+    "parcel-bundler": "^1.6.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "typescript": "4.4.4"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": ["dinesh rawat", "polygon vertices", "fabric js"],
+  "author": "Dinesh",
+  "license": "MIT"
+}
